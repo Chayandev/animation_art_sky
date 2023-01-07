@@ -6,7 +6,7 @@
 
 body {
     background-image: url('backgroundsky.jpg');
-    min-height: 100vh;
+    height: 100vh;
     width:100%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -16,13 +16,13 @@ body {
 
 .moon {
     background-color: rgb(254, 254, 244);
-    height: 80px;
-    width: 20%;
+    height: 9rem;
+    width: 9rem;
     border-radius: 50%;
     position: absolute;
     margin: auto;
-    right: 2rem;
-    top: 3em;
+    left:80%;
+    top: 3%;
     box-shadow: 0 0 98px rgba(243, 242, 226, 0.952);
     /* 0 0 0 0.8rem rgba(255, 250, 198, 0.05),
     0 0 0 1em rgba(255, 250, 198, 0.05) ; */
